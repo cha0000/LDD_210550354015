@@ -1,0 +1,1 @@
+cmd_/home/chakri/DeviceDrivers/hello/Module.symvers := sed 's/ko$$/o/' /home/chakri/DeviceDrivers/hello/modules.order | scripts/mod/modpost -m -a   -o /home/chakri/DeviceDrivers/hello/Module.symvers -e -i Module.symvers   -T -

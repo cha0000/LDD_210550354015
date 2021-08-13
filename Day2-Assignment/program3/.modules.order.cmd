@@ -1,0 +1,1 @@
+cmd_/home/chakri/device-Drivers/LDD_210550354015-DeviceDrivers/program3/modules.order := {   echo /home/chakri/device-Drivers/LDD_210550354015-DeviceDrivers/program3/parameter.ko; :; } | awk '!x[$$0]++' - > /home/chakri/device-Drivers/LDD_210550354015-DeviceDrivers/program3/modules.order

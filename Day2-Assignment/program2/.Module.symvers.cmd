@@ -1,0 +1,1 @@
+cmd_/home/chakri/DeviceDrivers/d2program2/Module.symvers := sed 's/ko$$/o/' /home/chakri/DeviceDrivers/d2program2/modules.order | scripts/mod/modpost -m -a   -o /home/chakri/DeviceDrivers/d2program2/Module.symvers -e -i Module.symvers   -T -
